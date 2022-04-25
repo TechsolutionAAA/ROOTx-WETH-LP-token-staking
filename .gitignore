@@ -1,0 +1,13 @@
+/build
+/node_modules
+.secret.json
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+client/.next
+
+
